@@ -1,0 +1,7 @@
+{
+  "name": "Teacher Portfolio System",
+  "description": "A comprehensive monochrome-styled portfolio management system for teachers and administrators, featuring 3D UI elements, activity tracking, and AI-powered PDF proof analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
